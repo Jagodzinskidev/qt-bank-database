@@ -1,1 +1,1 @@
-made for qt 5.15.1
+made for qt 5.15.0
