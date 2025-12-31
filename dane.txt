@@ -1,0 +1,1 @@
+Filip,Wójcik,9,9,2016,10000000.00;Marek,Kamiński,30,12,1975,8000.00;Janina,Jędrzejczak,3,11,1992,2562.00;Jan,Kowalski,15,6,1985,2500.50;Katarzyna,Andrzejewska,4,1,1991,690.20;Katarzyna,Słonecznik,4,1,1991,0.00;Marek,Kamiński,30,12,1975,-50.00;
